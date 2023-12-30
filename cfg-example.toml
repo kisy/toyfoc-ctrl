@@ -1,0 +1,6 @@
+[toyfoc-ctrl]
+wifi_ssid = ""
+wifi_psk = ""
+mqtt_addr = "mqtt://127.0.0.1:1883"
+mqtt_user = "user"
+mqtt_pass = "pass"
